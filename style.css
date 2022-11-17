@@ -1,0 +1,36 @@
+* {
+    font-family: "Brush Script MT", cursive;
+    font-size: 20px;
+}
+
+body {
+    background-color: #feb236;
+}
+
+h1, h2 {
+    color: #d64161;
+    font-size: 72px;
+    font-weight: 800;
+}
+
+a {
+    color: rgb(86, 8, 180);
+    text-decoration: none;
+}
+
+a:hover {
+    color: #6b5b99;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.unordered {
+    list-style-type: square;
+}
+
+img {
+    height: auto;
+    width: 480px;
+}
